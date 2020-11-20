@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 * {
 	box-sizing: border-box;
@@ -58,12 +58,12 @@ body.dark p {
 }
 
 
-.fa-moon {
+i.far.fa-moon {
 	color: #f1c40f;
 }
 
-.fa-sun {
+i.far.fa-sun {
 	color: #f39c12;
 }
-}
+
 
